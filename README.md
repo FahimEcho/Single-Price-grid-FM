@@ -44,7 +44,3 @@ Users should be able to:
 ### What I learned
 
 In this project, I practiced structuring a website using HTML, styling elements using CSS, and laying out the elements using Flexbox & CSS Grid. This project also served as practice for responsive web design.
-
-## Author
-
-- Frontend Mentor - [@JacksonJ97](https://www.frontendmentor.io/profile/JacksonJ97)
